@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/apple.png</file>
+        <file>images/body.png</file>
+        <file>images/apple2.png</file>
+        <file>images/android.png</file>
+        <file>images/goL.png</file>
+        <file>images/goW.png</file>
+        <file>images/timeout.png</file>
+    </qresource>
+</RCC>
